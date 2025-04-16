@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+numpy
+tensorflow
+s3fs
+osmnx
+fsspec
+h5py
+matplotlib
+statsmodels
+seaborn
+# Add any other dependencies you need for your project
